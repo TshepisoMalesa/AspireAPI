@@ -1,0 +1,17 @@
+C:\Aspire\AspireAPI\AspireAPI.Domain\bin\Debug\net6.0\AspireAPI.Domain.deps.json
+C:\Aspire\AspireAPI\AspireAPI.Domain\bin\Debug\net6.0\AspireAPI.Domain.dll
+C:\Aspire\AspireAPI\AspireAPI.Domain\bin\Debug\net6.0\AspireAPI.Domain.pdb
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.csproj.AssemblyReference.cache
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.AssemblyInfoInputs.cache
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.AssemblyInfo.cs
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.dll
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\refint\AspireAPI.Domain.dll
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.pdb
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\ref\AspireAPI.Domain.dll
+C:\Aspire\AspireAPI\AspireAPI.Domain\bin\Debug\net6.0\Aspire.Security.dll
+C:\Aspire\AspireAPI\AspireAPI.Domain\bin\Debug\net6.0\Aspire.Security.pdb
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.csproj.CopyComplete
+C:\Aspire\AspireAPI\AspireAPI.Domain\bin\Debug\net6.0\AspireAPI.Domain.runtimeconfig.json
+C:\Aspire\AspireAPI\AspireAPI.Domain\obj\Debug\net6.0\AspireAPI.Domain.genruntimeconfig.cache
